@@ -1,6 +1,6 @@
 import img1 from "../assets/images/img2.png";
 import img2 from "../assets/images/img1.png";
-import img3 from "../assets/images/img3.jpg";
+import img3 from "../assets/images/img1.jpg";
 import img4 from "../assets/images/img4.jpg";
 import img5 from "../assets/images/img5.jpg";
 
