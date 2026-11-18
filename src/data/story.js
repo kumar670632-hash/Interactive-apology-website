@@ -1,7 +1,7 @@
 import img1 from "../assets/images/img56.jpg";
 import img2 from "../assets/images/img1.png";
 import img3 from "../assets/images/img1.jpg";
-import img4 from "../assets/images/img4.jpg";
+import img4 from "../assets/images/img420.jpg";
 import img5 from "../assets/images/img5.jpg";
 
 export const story = [
