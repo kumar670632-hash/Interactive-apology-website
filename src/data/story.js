@@ -7,22 +7,22 @@ import img5 from "../assets/images/img5.jpg";
 export const story = [
   {
     image: img1,
-    text: "Hiiii Goluuuu, Just wanted to tell you somethingggg...",
+    text: "Hiiii pragguuu babyyyyy I want to say somethinggggg toooo youuuuuuu goluuuuun molyuuu rasgulliiiiii ...",
   },
   {
     image: img2,
-    text: "Do you remember this picture? Our first picture that you took ✨",
+    text: "Ye yaad hai tujewww ✨ meri bachiiii ✨...Our first picture together ( ai hai but still hai ) ",
   },
   {
     image: img3,
-    text: "Our first trip as a hackathon... 🥺",
+    text: "tum bilkul eise hi golu molu si bachiii hooooo  ✨🙇🏻",
   },
   {
     image: img4,
-    text: "A day full of enjoyymenttt 😌",
+    text: "abh tere pairo me hi katenge jo zindagiuii bakiiiiiiii",
   },
   {
     image: img5,
-    text: "Yeah, sometimes I do things that make you angry, and I am sorry for that. But just like this image, I choose US. So maaf kar de goluu ❤️",
+    text: "Yeah, sometimes I do things that make you angry, and I am sorry for that. But just like this image, I choose US. So maaf kar de meriiii rasmalai ❤️",
   },
 ];
